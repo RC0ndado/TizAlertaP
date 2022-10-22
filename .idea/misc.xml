@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/QuintoSemestre/Descargas5/TizAlertaPv2/TizAlertaPv2/app/src/main/res/drawable/clear_sky_background.xml" value="0.19" />
+        <entry key="..\:/QuintoSemestre/Descargas5/TizAlertaPv2/TizAlertaPv2/app/src/main/res/drawable/clear_sky_night_background.xml" value="0.19" />
+        <entry key="..\:/QuintoSemestre/Descargas5/TizAlertaPv2/TizAlertaPv2/app/src/main/res/drawable/clima_linear_layout_huracanado_background.xml" value="0.19" />
+        <entry key="..\:/QuintoSemestre/Descargas5/TizAlertaPv2/TizAlertaPv2/app/src/main/res/drawable/clima_linear_layout_moderado_background.xml" value="0.19" />
+        <entry key="..\:/QuintoSemestre/Descargas5/TizAlertaPv2/TizAlertaPv2/app/src/main/res/drawable/clima_linear_layout_muy_fuerte_background.xml" value="0.19" />
+        <entry key="..\:/QuintoSemestre/Descargas5/TizAlertaPv2/TizAlertaPv2/app/src/main/res/drawable/clima_linear_layout_normal_background.xml" value="0.19" />
+        <entry key="..\:/QuintoSemestre/Descargas5/TizAlertaPv2/TizAlertaPv2/app/src/main/res/drawable/ic_baseline_contact_phone_24.xml" value="0.19" />
+        <entry key="..\:/QuintoSemestre/Descargas5/TizAlertaPv2/TizAlertaPv2/app/src/main/res/drawable/ic_baseline_contacts_24.xml" value="0.19" />
+        <entry key="..\:/QuintoSemestre/Descargas5/TizAlertaPv2/TizAlertaPv2/app/src/main/res/drawable/ic_baseline_list_24.xml" value="0.19" />
+        <entry key="..\:/QuintoSemestre/Descargas5/TizAlertaPv2/TizAlertaPv2/app/src/main/res/drawable/ic_baseline_map_24.xml" value="0.19" />
+        <entry key="..\:/QuintoSemestre/Descargas5/TizAlertaPv2/TizAlertaPv2/app/src/main/res/drawable/snow_background.xml" value="0.19" />
+        <entry key="..\:/QuintoSemestre/Descargas5/TizAlertaPv2/TizAlertaPv2/app/src/main/res/drawable/splashscreen.xml" value="0.1" />
+        <entry key="..\:/QuintoSemestre/Descargas5/TizAlertaPv2/TizAlertaPv2/app/src/main/res/drawable/thunderstorm_background.xml" value="0.19" />
+        <entry key="..\:/QuintoSemestre/Descargas5/TizAlertaPv2/TizAlertaPv2/app/src/main/res/layout/activity_contactos.xml" value="0.25416666666666665" />
+        <entry key="..\:/QuintoSemestre/Descargas5/TizAlertaPv2/TizAlertaPv2/app/src/main/res/layout/activity_creditos.xml" value="0.25416666666666665" />
+        <entry key="..\:/QuintoSemestre/Descargas5/TizAlertaPv2/TizAlertaPv2/app/src/main/res/layout/activity_display_maps.xml" value="0.25416666666666665" />
+        <entry key="..\:/QuintoSemestre/Descargas5/TizAlertaPv2/TizAlertaPv2/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/QuintoSemestre/Descargas5/TizAlertaPv2/TizAlertaPv2/app/src/main/res/layout/activity_mapa.xml" value="0.23796296296296296" />
+        <entry key="..\:/QuintoSemestre/Descargas5/TizAlertaPv2/TizAlertaPv2/app/src/main/res/layout/activity_mostrar_resumen_clima.xml" value="0.25416666666666665" />
+        <entry key="..\:/QuintoSemestre/Descargas5/TizAlertaPv2/TizAlertaPv2/app/src/main/res/layout/renglon_notificaciones.xml" value="0.25416666666666665" />
+        <entry key="..\:/QuintoSemestre/Descargas5/TizAlertaPv2/TizAlertaPv2/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
